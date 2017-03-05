@@ -31,10 +31,4 @@ describe('Feeds', () => {
     });
   });
 
-
-  it('should parse an atom feed into a json strucure', () => {
-
-
-
-  });
 });
